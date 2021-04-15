@@ -1,4 +1,4 @@
-# workbooth
+# Workbooth
 Project management platform (HCI)
 Team members:
 Maddi Siddart (PES1201800269)
