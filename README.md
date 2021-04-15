@@ -5,6 +5,7 @@ Maddi Siddart (PES1201800269)
 Prajwal K naik (PES1201801455)
 Siva Raja ganesh (PES1201801968)
 link to the high fidelity prototype: https://framer.com/share/Wireframing--bKGNCatJR0uuxyKVrl1N/DYg5pBbZD?editor=1
+link to concept video : https://drive.google.com/file/d/1_4VVVNWvoEjMdejFBKfJanuMkVdx0o8J/view?usp=sharing
 
 Students often face an issue of finding teammates or collaborators for the projects that they want to work on.
 With the ongoing pandemic, the situation has worsened with every academic/professional activity moving online. 
